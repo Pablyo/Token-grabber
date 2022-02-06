@@ -21,7 +21,7 @@ This version of the grabber only supports **Windows**.
 <br>
 
 # Author
-- **wodx**
+- **Pablyo**
     - [Github](https://github.com/Pablyo)
     - [Discord](https://discord.gg/m6rKJDTNZs)
 
